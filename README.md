@@ -2,7 +2,7 @@
 -  🇮🇳   I live in India
 - 👀 I’m interested in Full-stack development
 - 🌱 I’m currently learning React.js
-
+- 🧑‍💻 Comfortable with c , c++ , python
 <h2>   I know..</h2>
 
 
